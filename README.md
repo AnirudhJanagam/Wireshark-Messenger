@@ -10,7 +10,7 @@ Team members include:
 
 G2: Wireshark
 
-Anirudh Janagam, Ginka Anusha, Gurram Karthik, Hossen Saddam, Injeti Ravi Varma, Ivvala Venkata Sai Krishna Chaitanya, Kadamati Venkata Sai Sidhardha, Karumanchi Mahesh Chowdary, Kondepati Divya Naga Krishna, Kovvuru Nasirali, Sathi Santosh Reddy,
+Anirudh Janagam, Ginka Anusha, Gurram Karthik, Hossen Saddam, Injeti Ravi Varma, Ivvala Venkata Sai Krishna Chaitanya, Kadamati Venkata Sai Sidhardha, Karumanchi Mahesh Chowdary, Kondepati Divya Naga Krishna, Kovvuru Nasirali, Sathi Santosh Reddy
 
 The original project done using gitlab can be found at: https://herkules.comproj.bth.se:6017/G2/P1
 
